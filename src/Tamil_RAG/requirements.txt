@@ -1,0 +1,15 @@
+transformers
+torch
+bitsandbytes
+accelerate
+pypdf
+tiktoken
+sentence-transformers
+torchvision
+torchaudio
+langchain
+streamlit 
+unstructured 
+langchain_community 
+llama-index
+faiss-cpu
